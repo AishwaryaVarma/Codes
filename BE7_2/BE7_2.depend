@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519125028 source:/home/akshay/code::blocks/my-programs/BE7_2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

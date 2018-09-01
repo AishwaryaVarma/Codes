@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1515486615 source:/home/akshay/code::blocks/my-programs/avgOfNno/main.c
+	<stdio.h>
+	<stdlib.h>
+

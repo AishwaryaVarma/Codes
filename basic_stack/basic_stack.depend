@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533309199 source:/home/akshay/CODE_/my-programs/basic_stack/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

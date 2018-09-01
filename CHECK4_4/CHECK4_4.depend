@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516368798 source:/home/akshay/code::blocks/my-programs/CHECK4_4/main.c
+	<stdlib.h>
+	<stdio.h>
+
